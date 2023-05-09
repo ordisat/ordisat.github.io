@@ -1,4 +1,4 @@
-# looks◉rdinal
+# ordisat
 
 A self-custodial inscription tool.
 
@@ -6,4 +6,4 @@ To make sure you are always using the latest and most stable version, please use
 
 This tool is rapidly and consistently updated. Join our Discord: https://discord.gg/Ur8XGaurSd
 
-looks◉rdinal is a fork of https://inscribetheplanet.com/
+ordisat is a fork of https://inscribetheplanet.com/
